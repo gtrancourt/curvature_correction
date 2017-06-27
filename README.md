@@ -12,9 +12,7 @@ Thain (1983) presents a series of equations to compute a curvature correction fa
 For cylinder-shaped cells, which can be more common in the long palisade layers of _Gossypium hirustum_ (coton) for example, the equations are:
 
 with hemispherical ends:
-$$
-F = \pi / (2+((\pi^2/4)-2)(b/a) = \pi / (2+0.467*(b/a))
-$$
+![](https://latex.codecogs.com/gif.latex?F&space;=&space;\frac{\pi}{2&space;&plus;&space;(\frac{\pi^2}{4}-2)(\frac{b}{a})}&space;=&space;\frac{\pi}{2&space;&plus;&space;0.467(\frac{b}{a})})
 
 with flat ends:
 $$
