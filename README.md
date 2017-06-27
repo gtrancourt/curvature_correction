@@ -45,4 +45,4 @@ Note that Thain (1983) forgot the square root in the elliptical integral functio
 
 ## References
 
-__Thain JF. 1983.__ Curvature correction factors in the measurement of cell surface areas in plant tissues. _Journal of Experimental Botany_ 34: 87–94.
+__Thain JF. 1983.__ [Curvature correction factors in the measurement of cell surface areas in plant tissues](https://academic.oup.com/jxb/article-abstract/34/1/87/561221). _Journal of Experimental Botany_ 34: 87–94.
