@@ -79,6 +79,6 @@ The function would be then used as:
 
 ## References
 
-__Evans JR, Caemmerer von S, Setchell BA, Hudson GS. 1994.__ T[he relationship between CO2 transfer conductance and leaf anatomy in transgenic tobacco with a reduced content of rubisco](http://www.publish.csiro.au/FP/fulltext/PP9940475) _Australian Journal of Plant Physiology_ 21: 475–495.
+__Evans JR, Caemmerer von S, Setchell BA, Hudson GS. 1994.__ T[he relationship between CO<sub>2</sub> transfer conductance and leaf anatomy in transgenic tobacco with a reduced content of rubisco](http://www.publish.csiro.au/FP/fulltext/PP9940475) _Australian Journal of Plant Physiology_ 21: 475–495.
 
 __Thain JF. 1983.__ [Curvature correction factors in the measurement of cell surface areas in plant tissues](https://academic.oup.com/jxb/article-abstract/34/1/87/561221). _Journal of Experimental Botany_ 34: 87–94.
