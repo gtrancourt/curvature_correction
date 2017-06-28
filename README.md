@@ -48,7 +48,7 @@ The elliptical integral is easy to solve in many programming languages. I `R`, t
 ```R
 E <- integrate(elliptic.integral, lower = 0, upper = pi/2, e=e)
 ```
-where `e` is computed from the eccentricity of the ellipse function above, as defined above. This function and the elliptic integral are written as
+where `e` is computed from the eccentricity of the ellipse function above. This function and the elliptic integral are written as
 
 ```R
 eccentricity.ellipse <- function(b, a) sqrt(1 - (b^2/a^2))
